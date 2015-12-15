@@ -1,0 +1,4 @@
+Chris Cui
+Dec. 2015, Prototype
+
+Edison Code to read temperature and humidity from HTU21D and push the data to Google datastore
